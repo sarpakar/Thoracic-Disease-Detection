@@ -1,4 +1,4 @@
-# Data-Challenge-1-template-code
+# Thoracic-Disease-Detection
 This repository contains the template code for the TU/e course JBG040 Data Challenge 1.
 Please read this document carefully as it has been filled out with important information.
 
@@ -74,4 +74,3 @@ Then, main.py can be run by, for example, typing `python main.py --nb_epochs 10 
 This would run the script with 10 epochs, a batch size of 25, and balanced batches, which is also the current default.
 If you would want to run the script with 20 epochs, a batch size of 5, and batches that are not balanced, 
 you would type `main.py --nb_epochs 20 --batch_size 5 --no-balanced_batches`.
-# Thoracic-Disease-Detection
