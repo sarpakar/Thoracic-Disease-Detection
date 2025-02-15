@@ -74,3 +74,4 @@ Then, main.py can be run by, for example, typing `python main.py --nb_epochs 10 
 This would run the script with 10 epochs, a batch size of 25, and balanced batches, which is also the current default.
 If you would want to run the script with 20 epochs, a batch size of 5, and batches that are not balanced, 
 you would type `main.py --nb_epochs 20 --batch_size 5 --no-balanced_batches`.
+# Thoracic-Disease-Detection
